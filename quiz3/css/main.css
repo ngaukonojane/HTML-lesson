@@ -1,0 +1,36 @@
+body{
+	background-color: #d3c4a3;
+	width: 850;
+	padding:50px;
+	 border-width: 5px;
+}
+.content{
+
+
+	background-color: #ffffff;
+	width: 850px;
+	padding: 50px;
+	margin: auto;
+
+
+}
+footer{
+	background-color: #413827;
+	text-align: center;
+	width: 1500px;
+	height:60px;
+}
+h1{
+	text-align: center;
+	
+}
+header{
+	background-color: #cda55f;
+	text-align: center;
+	width:1400px;
+	height:
+}
+h6{
+	text-align: right;
+}
+	

@@ -1,0 +1,26 @@
+header{
+	background-color: maroon;
+	color: red;
+	padding: 40px;
+
+}
+body{
+	background-color: purple;
+}
+h1{
+	color:green;
+	text-align: center;
+}
+h2{
+	color: blue;
+	text-align: center;
+}
+p{
+	font-family: verdana;
+	font-size: 
+}
+footer{
+	background-color: white;
+	padding: 40px;
+	
+}

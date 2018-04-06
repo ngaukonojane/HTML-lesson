@@ -1,0 +1,135 @@
+body{
+	background-color: #c2b9b9;
+	
+	
+}
+
+
+header
+{background-color: #020c12;
+	color:#f7f8f9;
+text-align: center;
+margin: 0 auto;
+width: 1200px;px;
+height:30px; 
+}
+
+h1{
+	background-color: #061e32;
+	margin:0 auto;
+	color:#f7f8f9;
+	text-align: center;
+	width: 1200px;
+	height: 50px;
+}
+
+h2{
+	background-color:#f3cd14;
+	width: 1000px;
+	height: 50px;
+
+}
+.container{
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+	background-color:#bcadad;
+}
+img{float: left;
+}
+
+h3{
+	background-color: #f3cd14;
+	width: 490px;
+	height: 50px;
+	text-align: center;
+	margin: 0 auto;
+}
+.panel{
+	width: 1000px;
+	height: 400px;
+	margin: 0 auto;
+	margin-top: 20px;
+
+}
+.box{
+	width: 490px;
+	height: 350PX;
+	background-color: #ffffff;
+	float:left;
+	margin: 0 auto;
+}
+.right{
+	float: right;
+	background-color: #ffffff;
+	width: 490px;
+	height: 350px;
+	margin: 0 auto;
+}
+h4{
+	background-color: #f3cd14;
+	width: 490px;
+	height: 50px;
+	text-align: center;
+	margin: 0 auto;
+}
+.school{	
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+	border-collapse: collapse;
+	background-color:#ffffff;
+} 
+.school table, th, td {
+   border: 1px solid black;
+}
+
+
+
+.school table{
+     
+   
+	width:100%;
+	border: 1px solid#666;
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+.school table tr{
+	border-bottom: none;
+
+}
+
+.school table tr:first-child{
+	font-size: 14px;
+	padding:10px;
+	border-right: 1px solid #000;
+	border-right:none;
+}
+
+.school table tr th{
+	font-weight: bold;
+	padding: 10px;
+	text-align: left;
+	font-size: 10px;
+	background-color: #f7ce06;
+	border-right:1px solid #fff;
+
+}
+
+.shool table tr th:last-child{
+	border-right:none;
+}
+
+footer{
+	background-color: #284b64;	
+	padding-bottom: 10 auto;
+    margin: 0 auto;
+    padding-left: 30px;
+    width: 1200px;
+    height:100px; 
+}
+
+h5{
+	color: brown;
+}

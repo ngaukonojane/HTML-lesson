@@ -1,0 +1,59 @@
+body{
+	background-color: rgb(238, 130, 238);	
+	
+    } 
+
+.container{ 
+	background-color: rgb(60, 60, 60);
+	width:600px;
+	min-height: 200px;
+	padding:200px;
+	margin:0 auto;
+	
+}
+	
+.container.panel{
+	min-height:200px;
+	background-color:maroon;
+	color:red;
+	text-align:center;
+	float:left;
+}
+
+.container.top{
+	width:200px;
+}
+
+.one{
+	background-color:green;
+	width:200px;
+	padding:200px;
+
+}
+.two{
+	background-color:purple;
+	width:200px;
+	padding:200px;
+
+}
+.three{
+	background-color:red;
+	width:200px;
+	padding:200px;
+}
+.four{
+	background-color:pink;
+	width:200px;
+	padding:200px;
+}
+.five{
+	background-color:orange;
+	width:200px;
+	padding:200px;
+}
+.six{
+	background-color:maroon;
+	width:200px;
+	padding:200px;
+}
+
