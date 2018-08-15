@@ -1,0 +1,64 @@
+body{
+  background-color: white;
+  
+}
+header{
+   background-color:  #581845;
+   width: 900px;
+   height: 50px;
+   margin: 0 auto;
+
+}
+p{
+  color: yellow;
+  margin: 0 auto;
+  margin-left: 300px;
+
+}
+h2{
+  margin-left: 650px;
+  color: white;
+}
+h3{
+  margin-left: 650px;
+  color: yellow;
+}
+
+.cont{
+  margin-left: 400px;
+  padding-bottom: 20px;
+}
+.panel{
+  width: 900px;
+  height: 100px;
+  margin: 0 auto;
+}
+.panel1{
+  background-color: Violet;
+  width: 900px;
+  height: 100px;
+  margin: 0 auto;
+
+}
+a:link {
+    color: white;
+    background-color: #581845 ;
+    text-decoration: none;
+}
+a:visited {
+    color: green;
+    background-color: white;
+    text-decoration: none;
+}
+a:hover {
+    color:maroon ;
+    background-color: black;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
